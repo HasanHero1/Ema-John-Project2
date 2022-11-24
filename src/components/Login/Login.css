@@ -1,0 +1,35 @@
+.form-container{
+    background-color: rgb(236, 236, 236);
+    height: 400px;
+    width: 400px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 20px;
+}
+.form-item{
+    width: 380px;
+    height: 30px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 16px;
+    background-color: rgb(197, 197, 197);
+}
+.btn-1{
+    background-color: rgb(104, 206, 2);
+    font-weight: 600;
+    padding: 10px;
+}
+.btn-1:hover{
+    background-color: rgb(120, 240, 0);
+}
+.btn-2{
+    background-color: rgb(235, 192, 1);
+    font-weight: 600;
+    padding: 10px;
+}
+.btn-2:hover{
+    background-color: rgb(255, 208, 0);
+}
